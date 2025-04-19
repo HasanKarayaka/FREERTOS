@@ -1,0 +1,8 @@
+../Core/Src/main.c:89:5:main	1
+../Core/Src/main.c:173:6:SystemClock_Config	3
+../Core/Src/main.c:221:13:MX_GPIO_Init	1
+../Core/Src/main.c:253:6:delay_FreeRTOS	2
+../Core/Src/main.c:269:6:Read_Gpıo	2
+../Core/Src/main.c:292:6:Led_flash	2
+../Core/Src/main.c:317:6:StartTask03	1
+../Core/Src/main.c:332:6:Error_Handler	1

@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Core/Src/main.c:10:6:delay	2
+../Core/Src/main.c:14:6:RCC_Config	4
+../Core/Src/main.c:35:6:GPIO_Config	1
+../Core/Src/main.c:45:6:EXTI_Config	1
+../Core/Src/main.c:62:6:EXTI0IRQHandler	3
+../Core/Src/main.c:80:6:EXTI1IRQHandler	3
+../Core/Src/main.c:98:6:EXTI2RQHandler	3
+../Core/Src/main.c:117:5:main	1
+../Core/Src/main.c:136:6:Error_Handler	1
